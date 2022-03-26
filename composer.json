@@ -1,0 +1,17 @@
+{
+    "name": "fabulous/banking",
+    "description": "banking package for patricia",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fabulous\\Banking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabulous",
+            "email": "fabian.ulagh@mypatricia.co"
+        }
+    ],
+    "require": {}
+}
